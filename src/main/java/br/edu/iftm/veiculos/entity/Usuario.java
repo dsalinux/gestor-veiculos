@@ -1,4 +1,4 @@
-package br.edu.iftm.agenda.entity;
+package br.edu.iftm.veiculos.entity;
 
 import java.io.Serializable;
 import java.util.Date;

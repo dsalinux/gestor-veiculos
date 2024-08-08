@@ -1,6 +1,6 @@
-package br.edu.iftm.agenda.logic;
+package br.edu.iftm.veiculos.logic;
 
-import br.edu.iftm.agenda.entity.Usuario;
+import br.edu.iftm.veiculos.entity.Usuario;
 import java.io.Serializable;
 import java.util.List;
 

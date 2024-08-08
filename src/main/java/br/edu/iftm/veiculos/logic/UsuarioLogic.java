@@ -1,7 +1,7 @@
-package br.edu.iftm.agenda.logic;
+package br.edu.iftm.veiculos.logic;
 
-import br.edu.iftm.agenda.dao.UsuarioDAO;
-import br.edu.iftm.agenda.entity.Usuario;
+import br.edu.iftm.veiculos.dao.UsuarioDAO;
+import br.edu.iftm.veiculos.entity.Usuario;
 import java.io.Serializable;
 import java.util.Date;
 import java.util.List;

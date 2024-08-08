@@ -1,4 +1,4 @@
-package br.edu.iftm.agenda.util;
+package br.edu.iftm.veiculos.util;
 
 import java.io.Serializable;
 import javax.enterprise.context.ApplicationScoped;

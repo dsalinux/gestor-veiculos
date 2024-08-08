@@ -1,10 +1,10 @@
-package br.edu.iftm.agenda.bean;
+package br.edu.iftm.veiculos.bean;
 
-import br.edu.iftm.agenda.entity.Permissao;
-import br.edu.iftm.agenda.entity.Usuario;
-import br.edu.iftm.agenda.logic.GenericLogic;
-import br.edu.iftm.agenda.logic.UsuarioLogic;
-import br.edu.iftm.agenda.util.EntityManagerProducer;
+import br.edu.iftm.veiculos.entity.Permissao;
+import br.edu.iftm.veiculos.entity.Usuario;
+import br.edu.iftm.veiculos.logic.GenericLogic;
+import br.edu.iftm.veiculos.logic.UsuarioLogic;
+import br.edu.iftm.veiculos.util.EntityManagerProducer;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Date;

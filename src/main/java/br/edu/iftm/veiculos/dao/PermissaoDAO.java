@@ -1,7 +1,7 @@
-package br.edu.iftm.agenda.dao;
+package br.edu.iftm.veiculos.dao;
 
-import br.edu.iftm.agenda.entity.Permissao;
-import br.edu.iftm.agenda.entity.Usuario;
+import br.edu.iftm.veiculos.entity.Permissao;
+import br.edu.iftm.veiculos.entity.Usuario;
 
 public class PermissaoDAO extends GenericDAO<Permissao, Long>{
 
